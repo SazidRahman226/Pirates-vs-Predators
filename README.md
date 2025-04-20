@@ -23,7 +23,7 @@
 ## How to run?
   - Clone the repository
   ```sh
-  https://github.com/SazidRahman226/Pirates-vs-Predators
+  git clone https://github.com/SazidRahman226/Pirates-vs-Predators
   ```
   - Run "pirates_vs_predators.exe" and enjoy!
 
